@@ -55,4 +55,4 @@
 
 5.  После запуска API будет доступен по адресу `http://localhost:8000`.
 6.  Swagger UI будет доступен по адресу `http://localhost:8000/docs`.
-7.  PgAdmin будет доступен по адресу `http://localhost:5050` (учетные данные по умолчанию: `admin@admin.com` / `Ser19052001`).
+7.  PgAdmin будет доступен по адресу `http://localhost:5050` (учетные данные по умолчанию: `kudrasovcergej@gmail.com` / `Ser19052001`).
